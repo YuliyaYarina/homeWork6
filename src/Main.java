@@ -86,15 +86,11 @@ public class Main {
 
     public static void task10() {
         System.out.println("Задача 10");
-        for (int = 2*1=2; i < 2*10=20; i * 2) {
+
             System.out.println();
-        }
+
 
 
     }
-
-
-
-
 
 }
