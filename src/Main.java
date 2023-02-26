@@ -87,7 +87,10 @@ public class Main {
     public static void task10() {
         System.out.println("Задача 10");
 
-            System.out.println();
+        for (int i = 1; i <= 10; i = i + 1) {
+            System.out.println("2*" + i + "=" + 2*i);
+        }
+
 
 
 
